@@ -1,4 +1,4 @@
-from main import *
+from main import MED, fast_MED, fast_align_MED, test_cases, alignments
 
 def test_MED():
     for S, T in test_cases:
